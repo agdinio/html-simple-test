@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">htmltest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="property_image">Image</string>
+    <string name="click_to_change_image">Click to change image</string>
+    <string name="go_button">View html view</string>
+    <string name="title_activity_html">HtmlActivity</string>
+    <string name="agent_name">Agent Name</string>
+    <string name="agent_phone">Agent Phone</string>
+    <string name="agent_email">Agent Email</string>
+    
+</resources>
