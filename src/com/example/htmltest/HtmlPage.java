@@ -2,7 +2,10 @@ package com.example.htmltest;
 
 public enum HtmlPage {
 	
-	intro("Intro Page", "intro.html");
+	intro("Intro Page", "intro.html"),
+	intronew("Intro New", "percent/intronew.html"),
+	intropercent("Intro Percent", "percent/intro.html"),
+	trial("Trial", "percent/trial.html");
 	
 	private String title;
 	private String page;
